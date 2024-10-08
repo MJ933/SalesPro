@@ -1,0 +1,126 @@
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.csproj.AssemblyReference.cache
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Properties.Resources.resources
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.ShowPeopleList.resources
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.csproj.GenerateResource.cache
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.csproj.CoreCompileInputs.cache
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_PresentationLayer.exe.config
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_PresentationLayer.exe
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_PresentationLayer.pdb
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\EntityFramework.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_BusinessLayer.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.EF6.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.Linq.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_BusinessLayer.pdb
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_BusinessLayer.dll.config
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\EntityFramework.xml
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.xml
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_DataAccesslayer.pdb
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro.3F9725FA.Up2Date
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.exe
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.pdb
+E:\SalesPro - Copy\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Form1.resources
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_DataAccesslayer.dll
+E:\SalesPro - Copy\SalesPro_PresentationLayer\bin\Debug\SalesPro_DataAccesslayer.dll.config
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_PresentationLayer.exe.config
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_PresentationLayer.exe
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_PresentationLayer.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Toolkit.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EntityFramework.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EntityFramework.SqlServer.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_BusinessLayer.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.EF6.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.Linq.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_DataAccesslayer.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_BusinessLayer.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_BusinessLayer.dll.config
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Toolkit.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EntityFramework.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EntityFramework.SqlServer.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Data.SQLite.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_DataAccesslayer.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\SalesPro_DataAccesslayer.dll.config
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.csproj.AssemblyReference.cache
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Properties.Resources.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.csproj.GenerateResource.cache
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.csproj.CoreCompileInputs.cache
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro.3F9725FA.Up2Date
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.exe
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Docking.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Workspace.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Navigator.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Docking.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Workspace.pdb
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\ComponentFactory.Krypton.Navigator.pdb
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.ManageProductInventory.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.People.ucAddUpdatePerson.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.ctrlPersonCardWithFilter.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.People.ctrlPersonCard.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.People.frmFindPerson.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.ResponsiveForm.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.People.frmShowPersonInfo.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.People.frmAddUpdatePerson.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Products.frmAddUpdateProduct.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Products.ctrlProductCard.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Products.ctrlProductCardWithFilter.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Products.frmFindProduct.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Customers.frmAddUpdateCustomer.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Customers.frmManageCustomers.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Sales.frmAddUpdateSalesInvoices.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Sales.frmManageSalesInvoices.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Products.frmShowProductInfo.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Sales.ctrlSaleInvoiceCard.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Sales.frmShowSaleInvoiceInfo.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Installments.frmManageInstallments.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Installments.frmShowInstallmentInfo.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Installments.ctrlInstallmentCard.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Installments.frmAddUpdatePayment.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Discounts.frmAddUpdateDiscounts.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Customers_Guarantors_Suppliers.frmAddUpdateGuarantors.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Customers_Guarantors_Suppliers.frmManageGuarantors.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Customers_Guarantors_Suppliers.frmAddUpdateSupplier.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Customers_Guarantors_Suppliers.frmManageSuppliers.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.frmManagePeopleList.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Users.frmAddUpdateUser.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Users.ctrlUserCard.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Users.frmManageUsers.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Users.frmUserInfo.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.Login.frmLogin.resources
+E:\SalesPro\SalesPro_PresentationLayer\obj\Debug\SalesPro_PresentationLayer.frmMain.resources
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\BouncyCastle.Cryptography.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EPPlus.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EPPlus.Interfaces.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EPPlus.System.Drawing.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\itextsharp.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Buffers.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.ComponentModel.Annotations.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Formats.Asn1.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Memory.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Numerics.Vectors.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Text.Encodings.Web.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Text.Json.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.ValueTuple.dll
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\BouncyCastle.Cryptography.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\EPPlus.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\itextsharp.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Buffers.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Formats.Asn1.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Memory.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Numerics.Vectors.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Text.Encodings.Web.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Text.Json.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\SalesPro\SalesPro_PresentationLayer\bin\Debug\System.ValueTuple.xml

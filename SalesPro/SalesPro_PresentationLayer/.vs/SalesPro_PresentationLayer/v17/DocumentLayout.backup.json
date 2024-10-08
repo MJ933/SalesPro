@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SalesPro\\SalesPro_PresentationLayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE18196-A85B-4A2F-8A30-E7127C5A1A4D}|..\\SalesPro_BusinessLayer\\SalesPro_BusinessLayer.csproj|e:\\salespro\\salespro_businesslayer\\pdfreportgeneratorbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826624F8-FB91-4045-94CB-8F2C01365BA1}|SalesPro_PresentationLayer.csproj|E:\\SalesPro\\SalesPro_PresentationLayer\\installments\\ctrlinstallmentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{826624F8-FB91-4045-94CB-8F2C01365BA1}|SalesPro_PresentationLayer.csproj|solutionrelative:installments\\ctrlinstallmentcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE18196-A85B-4A2F-8A30-E7127C5A1A4D}|..\\SalesPro_BusinessLayer\\SalesPro_BusinessLayer.csproj|e:\\salespro\\salespro_businesslayer\\clssalesinvoiceitemsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBE18196-A85B-4A2F-8A30-E7127C5A1A4D}|..\\SalesPro_BusinessLayer\\SalesPro_BusinessLayer.csproj|e:\\salespro\\salespro_businesslayer\\clssalesinvoicesbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{826624F8-FB91-4045-94CB-8F2C01365BA1}|SalesPro_PresentationLayer.csproj|e:\\salespro\\salespro_presentationlayer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{826624F8-FB91-4045-94CB-8F2C01365BA1}|SalesPro_PresentationLayer.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsSalesInvoiceItemsBL.cs",
+              "DocumentMoniker": "E:\\SalesPro\\SalesPro_BusinessLayer\\clsSalesInvoiceItemsBL.cs",
+              "RelativeDocumentMoniker": "..\\SalesPro_BusinessLayer\\clsSalesInvoiceItemsBL.cs",
+              "ToolTip": "E:\\SalesPro\\SalesPro_BusinessLayer\\clsSalesInvoiceItemsBL.cs",
+              "RelativeToolTip": "..\\SalesPro_BusinessLayer\\clsSalesInvoiceItemsBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:18:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsSalesInvoicesBL.cs",
+              "DocumentMoniker": "E:\\SalesPro\\SalesPro_BusinessLayer\\clsSalesInvoicesBL.cs",
+              "RelativeDocumentMoniker": "..\\SalesPro_BusinessLayer\\clsSalesInvoicesBL.cs",
+              "ToolTip": "E:\\SalesPro\\SalesPro_BusinessLayer\\clsSalesInvoicesBL.cs",
+              "RelativeToolTip": "..\\SalesPro_BusinessLayer\\clsSalesInvoicesBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:18:08.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "E:\\SalesPro\\SalesPro_PresentationLayer\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "E:\\SalesPro\\SalesPro_PresentationLayer\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-07T20:39:55.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ctrlInstallmentCard.cs",
+              "DocumentMoniker": "E:\\SalesPro\\SalesPro_PresentationLayer\\Installments\\ctrlInstallmentCard.cs",
+              "RelativeDocumentMoniker": "Installments\\ctrlInstallmentCard.cs",
+              "ToolTip": "E:\\SalesPro\\SalesPro_PresentationLayer\\Installments\\ctrlInstallmentCard.cs",
+              "RelativeToolTip": "Installments\\ctrlInstallmentCard.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAA1wA4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T19:46:15.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PdfReportGeneratorBL.cs",
+              "DocumentMoniker": "E:\\SalesPro\\SalesPro_BusinessLayer\\PdfReportGeneratorBL.cs",
+              "RelativeDocumentMoniker": "..\\SalesPro_BusinessLayer\\PdfReportGeneratorBL.cs",
+              "ToolTip": "E:\\SalesPro\\SalesPro_BusinessLayer\\PdfReportGeneratorBL.cs",
+              "RelativeToolTip": "..\\SalesPro_BusinessLayer\\PdfReportGeneratorBL.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T17:58:07.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
